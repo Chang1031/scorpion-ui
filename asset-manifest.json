@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/scorpion-ui/static/css/main.accd7ab2.chunk.css",
+    "main.js": "/scorpion-ui/static/js/main.d872f14e.chunk.js",
+    "main.js.map": "/scorpion-ui/static/js/main.d872f14e.chunk.js.map",
+    "runtime~main.js": "/scorpion-ui/static/js/runtime~main.78614d84.js",
+    "runtime~main.js.map": "/scorpion-ui/static/js/runtime~main.78614d84.js.map",
+    "static/css/2.945d0ba8.chunk.css": "/scorpion-ui/static/css/2.945d0ba8.chunk.css",
+    "static/js/2.d53f96c7.chunk.js": "/scorpion-ui/static/js/2.d53f96c7.chunk.js",
+    "static/js/2.d53f96c7.chunk.js.map": "/scorpion-ui/static/js/2.d53f96c7.chunk.js.map",
+    "index.html": "/scorpion-ui/index.html",
+    "precache-manifest.bd61ffbe613746d6ba50258b930d603e.js": "/scorpion-ui/precache-manifest.bd61ffbe613746d6ba50258b930d603e.js",
+    "service-worker.js": "/scorpion-ui/service-worker.js",
+    "static/css/2.945d0ba8.chunk.css.map": "/scorpion-ui/static/css/2.945d0ba8.chunk.css.map",
+    "static/css/main.accd7ab2.chunk.css.map": "/scorpion-ui/static/css/main.accd7ab2.chunk.css.map",
+    "static/media/semantic.min.css": "/scorpion-ui/static/media/outline-icons.ef60a4f6.woff"
+  }
+}

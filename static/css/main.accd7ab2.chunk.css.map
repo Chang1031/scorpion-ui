@@ -1,0 +1,1 @@
+{"version":3,"sources":["global.css"],"names":[],"mappings":"AAAA,gBACE,WACF,CAMA,QACE,+BACF","file":"main.accd7ab2.chunk.css","sourcesContent":["html, body, #root {\n  height: 100%;\n}\n\n/* #root > div {\n  height: 100%;\n} */\n\n.pusher {\n  background-color: #eee !important;\n}\n"]}
